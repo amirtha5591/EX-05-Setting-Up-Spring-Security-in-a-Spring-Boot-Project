@@ -324,10 +324,9 @@ public class LoginRequest {
 }
 ```
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot (1048)" src="https://github.com/user-attachments/assets/d0361b13-65b2-4659-8f9a-da9f7e691354" />
+<img width="1439" height="752" alt="image" src="https://github.com/user-attachments/assets/1d894ad7-8dab-49d0-aee2-20fff0e52fd5" />
 
-<img width="1920" height="1080" alt="Screenshot (1050)" src="https://github.com/user-attachments/assets/c985186c-1e6d-4355-b8cf-79f5ebe4a5cf" />
-
+<img width="1423" height="919" alt="image" src="https://github.com/user-attachments/assets/5a0fe721-c34d-465e-a0ea-2bba10d13b75" />
 ## Result
 
 Therefore,the program for setting up Spring Security in a Spring Boot project to secure endpoints with basic authentication and role-based access control is implemented and executed successfully.
